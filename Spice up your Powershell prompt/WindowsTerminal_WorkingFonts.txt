@@ -1,0 +1,12 @@
+Space Mono for Powerline
+Roboto Mono for Powerline
+Noto Mono for Powerline
+Monofur for Powerline
+Source Code Pro for Powerline
+Inconsolata-g for Powerline
+Inconsolata-dz for Powerline
+Inconsolata for Powerline
+Hack
+Go Mono for Powerline
+Fira Mono for Powerline
+DejaVu Sans Mono for Powerline
