@@ -4,6 +4,7 @@ Repository for code and other learning materials for the AboutIT QuickTip type v
 ## Video list
 This is a list of all videos in the QuickTips category. They are placed in reverse chronological order so the first video in this list will always be the newest. <br />
 
+[Disable NIC DNS registration with Powershell](https://youtu.be/_g-Y1ClIMMk)<br/>
 [CredSSP encryption oracle remediation fix](https://youtu.be/kK-2uH-8axU)<br/>
 [How to install Powershell 7 on Windows Server](https://youtu.be/073p54BcyLA)<br/>
 [Extend Windows Server Evaluation time to avoid automatic Shut Down](https://youtu.be/N5AATvnUihM)<br/>
