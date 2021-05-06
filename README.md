@@ -4,6 +4,7 @@ Repository for code and other learning materials for the AboutIT QuickTip type v
 ## Video list
 This is a list of all videos in the QuickTips category. They are placed in reverse chronological order so the first video in this list will always be the newest. <br />
 
+[How to patch a Windows image offline with Powershell](https://youtu.be/WJovyceBf7g)
 [Spice up your Powershell prompt Part 2](https://youtu.be/gslN7Q_3P3I)</br>
 [Create an Active Directory IFM](https://youtu.be/_C8Hilr_Jws)<br/>
 [Disable NIC DNS registration with Powershell](https://youtu.be/_g-Y1ClIMMk)<br/>
