@@ -1,0 +1,32 @@
+### System wide proxy
+#Configure proxy address
+export HTTP_PROXY=192.168.1.254:80
+#To make it permanent for your user just added to the profile script
+#If using authentication the full command is: export HTTP_PROXY=user:password@proxy_address:port
+#For HTTPS proxy servers the variable is called HTTPS_PROXY
+
+#Configure DNS server (add your DNS address)
+sudo nano /etc/resolv.conf
+#Test DNS and proxy
+wget http://www.w3.org
+
+
+### apt and apt-get proxy
+#Configure proxy only for apt on ubuntu
+sudo touch /etc/apt/apt.conf.d/proxy.conf
+sudo nano /etc/apt/apt.conf.d/proxy.conf
+#Add line:
+Acquire::http::Proxy "http://192.168.1.254:80";
+#If using authentication the full line is:
+Acquire::http::Proxy "http://user:password@proxy_address:port";
+#For HTTPS proxy servers just replace http with https
+#Test that packages can be downloaded
+sudo apt install isc-dhcp-server
+
+
+### proxy for curl
+#Access a site with curl
+curl -I https://www.google.com -x 192.168.1.254:80
+#For proxy with authentication you can use the syntax: -x 'http://user:password@proxy_address:port'
+#Replace http with https in case this is needed
+
