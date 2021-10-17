@@ -4,6 +4,7 @@ Repository for code and other learning materials for the AboutIT QuickTip type v
 ## Video list
 This is a list of all videos in the QuickTips category. They are placed in reverse chronological order so the first video in this list will always be the newest. <br />
 
+[Install WSL on Windows 11](https://youtu.be/BieiUlNSm_Y)<br/>
 [Configure proxy on Ubuntu](https://youtu.be/OJLGGaJPWM8)<br/>
 [How to patch a Windows image offline with Powershell](https://youtu.be/WJovyceBf7g)<br/>
 [Spice up your Powershell prompt Part 2](https://youtu.be/gslN7Q_3P3I)</br>
